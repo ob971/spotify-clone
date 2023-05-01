@@ -1,6 +1,6 @@
 .body {
   padding: 30px;
-  width: 100%;
+  /* width: 100%; */
   height: 100vh;
   overflow-y: overlay;
   flex: 0.8;
