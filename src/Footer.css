@@ -1,4 +1,4 @@
-/* .footer {
+.footer {
   position: fixed;
   display: flex;
   justify-content: space-between;
@@ -61,4 +61,4 @@
 
 .footer__songInfo > p {
   font-size: 12px;
-} */
+}..
