@@ -9,7 +9,7 @@
   align-items: center;
 }
 
-/* .header__left {
+ .header__left {
   flex: 0.5;
   display: flex;
   background-color: white;
@@ -17,6 +17,7 @@
   border-radius: 30px;
   color: gray;
   align-items: center;
+}
 
 
 
