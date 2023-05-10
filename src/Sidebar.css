@@ -6,7 +6,7 @@
   padding-right: 11px;
   min-width: 232px;
   height: 100vh;
-  color: white;
+  color: rgb(255, 255, 255);
   background-color: #040408;
 }
 
@@ -20,5 +20,5 @@
   margin-right: auto;
   object-fit: contain;
   height: 70px;
-  padding: 12px;
+  padding: 18px;
 }
