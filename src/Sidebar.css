@@ -7,7 +7,7 @@
   min-width: 232px;
   height: 100vh;
   color: rgb(190, 132, 224);
-  background-color: #d5ddbdac;
+  background-color: #515348ac;
 }
 
   .sidebar__title {
@@ -20,5 +20,5 @@
   margin-right: auto;
   object-fit: contain;
   height: 8px;
-  padding: 15rpx;
+  padding: 15px;
 }
