@@ -7,13 +7,13 @@
   min-width: 232px;
   height: 100vh;
   color: rgb(190, 132, 224);
-  background-color: #7f9248ac;
+  background-color: #cdd8acac;
 }
 
   .sidebar__title {
   margin-left: 19px;
   padding: 7px;
-  font-size: 19px;
+  font-size: 19p
 }  
 
 .sidebar__logo {
