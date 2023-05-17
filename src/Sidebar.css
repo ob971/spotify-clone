@@ -6,13 +6,14 @@
   padding-right: 11px;
   min-width: 232px;
   height: 100vh;
-  color: rgb(135, 44, 191)
+  color: rgb(179, 157, 192)
   background-color: #667419;
 }
 
   .sidebar__title {
   margin-left: 19px;
-  padding: 7px;
+  padding: 7px; 
+  
   font-size: 19p
 }  
 
