@@ -3,7 +3,7 @@
   cursor: pointer;
   align-items: center;
   height: 40px;
-  color: grey;
+  color: rgb(231, 209, 209);
   transition: 200ms color ease-in;
 }
 
