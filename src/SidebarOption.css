@@ -8,11 +8,12 @@
 }
 
 .sidebarOption:hover {
-  color: rgb(144, 108, 108);
+  color: rgb(120, 44, 44);
 }
 
 .sidebar > hr {
   border: 1px solid #675f5f;
+  
   width: 90%;
   margin: 10px auto;
 }
