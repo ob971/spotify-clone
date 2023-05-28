@@ -1,6 +1,6 @@
 .login {
   display: grid;
-  background-color: black;
+  background-color: rgb(192, 16, 16);
   height: 100vh;
   place-items: center;
 }
