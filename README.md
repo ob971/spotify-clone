@@ -28,6 +28,7 @@ React.js: For building the frontend user interface, including components for dis
 
 
 
+
 Node.js:  To run the server-side code and handle HTTP requests from the frontend.
 
 Firebase Authentication: For user authentication and security.
