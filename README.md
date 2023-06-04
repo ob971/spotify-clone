@@ -23,12 +23,7 @@ MongoDB: For storing user data, music metadata, playlists, and other application
 Express.js: To build the backend API for handling authentication, user requests, and database operations.
 
 React.js: For building the frontend user interface, including components for displaying music content, playlists, and playback controls.
-
-
-
-
-
-
+Redux: For managing global application state, such as the currently playing track, playlists, and authentication status.
 Node.js:  To run the server-side code and handle HTTP requests from the frontend.
 
 Firebase Authentication: For user authentication and security.
