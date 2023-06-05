@@ -16,7 +16,7 @@ Real-Time Updates: Users will receive real-time updates when new songs are added
 
 Responsive Design: The application will be built with a responsive design to ensure optimal user experience across devices, including desktops, tablets, and mobile phones.
 
-Technologies Used:
+#Technologies Used:
 
 MongoDB: For storing user data, music metadata, playlists, and other application data.
 
