@@ -18,7 +18,7 @@ Responsive Design: The application will be built with a responsive design to ens
 
 #Technologies Used:
 
-MongoDB: For storing user data, music metadata, playlists, and other application data.
+MongoDB: For storing user data, music metadata, playlists,  and other application data.
 
 Express.js: To build the backend API for handling authentication, user requests, and database operations.
 
