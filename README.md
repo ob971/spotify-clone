@@ -2,6 +2,7 @@ Project Description: MERN Stack Spotify Clone
 
 This project aims to replicate the functionality and design of the popular music streaming service, Spotify, using the MERN stack (MongoDB, Express.js, React.js, Node.js). The Spotify clone will provide users with a familiar interface for discovering, searching, and playing music, along with features such as user authentication, playlist creation, and real-time updates.
 
+
 Key Features:
 
 User Authentication: Users will be able to sign up, log in, and securely authenticate their accounts to access personalized content and features.
