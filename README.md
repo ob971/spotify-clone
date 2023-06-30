@@ -7,7 +7,6 @@ This project aims to replicate the functionality and design of the popular music
 
 
 
-
 Key Features:
 
 User Authentication: Users will be able to sign up, log in, and securely authenticate their accounts to access personalized content and features.
