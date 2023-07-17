@@ -6,8 +6,6 @@ Key Features:
 
 User Authentication: Users will be able to sign up, log in, and securely authenticate their accounts to access personalized content and features.
 
-
-
 Music Catalog: The application will offer a vast music catalog, allowing users to browse and search for their favorite songs, albums, artists, and playlists.
 
 Playlist Management: Users can create, edit, and delete their playlists, as well as add or remove songs from their playlists.
