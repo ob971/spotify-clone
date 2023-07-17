@@ -9,6 +9,7 @@ User Authentication: Users will be able to sign up, log in, and securely authent
 Music Catalog: The application will offer a vast music catalog, allowing users to browse and search for their favorite songs, albums, artists, and playlists.
 
 
+
 Playlist Management: Users can create, edit, and delete their playlists, as well as add or remove songs from their playlists.
 
 Playback Controls: The Spotify clone will include playback controls, allowing users to play, pause, skip, and shuffle tracks, as well as adjust volume.
