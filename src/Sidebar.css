@@ -9,8 +9,7 @@
   color: hsl(269, 29%, 32%)
 
 }
-
-
+.sidebarOption:hover {
 .sidebar__title {
   margin-left: 21px;
   padding: 7px; 
